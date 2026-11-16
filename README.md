@@ -1,1 +1,2 @@
 # Vaultify
+Vaultify - Group project
